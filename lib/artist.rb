@@ -1,1 +1,2 @@
 artist = Artist.new 
+end 
