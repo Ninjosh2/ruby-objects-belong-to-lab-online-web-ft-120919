@@ -1,2 +1,0 @@
-artist = Artist.new 
-end 
